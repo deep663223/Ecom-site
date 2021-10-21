@@ -1,2 +1,2 @@
-# CV-generator
-A web based CV generator. It is mainly based on the backend part.
+# Ecom site
+An Ecom site for products.
